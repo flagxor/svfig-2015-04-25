@@ -1,1 +1,1 @@
-Slides for Haiku Forth News April 25, 2015.
+Slides for: Haiku Monthly - April 25, 2015.
